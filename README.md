@@ -281,8 +281,3 @@ Research-based educational tool. Use freely for optimization.
 ---
 
 
-*"The research validation gave our CFO confidence to approve the migration."* – CTO
-
----
-
-**Ready to optimize? Run `streamlit run docker_compose_optimizer.py` now!** 🚀
