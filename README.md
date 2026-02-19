@@ -239,7 +239,7 @@ This tool demonstrates:
 - ✅ Validation of published findings
 
 **Cite the research:**
-> "Binary Genetic Algorithm for Cost-Optimal Workload Scheduling in Cloud Environments: A Parameter Sensitivity Study"
+> Subramanian A (2026). Binary Genetic Algorithm for Cost-Optimal Workload Scheduling in Cloud Environments: A Parameter Sensitivity Study, Preprint - Research Gate.
 
 ---
 
@@ -260,7 +260,7 @@ Want to improve this tool? Ideas:
 
 This tool implements the research findings from:
 
-**Title**: Binary Genetic Algorithm for Cost-Optimal Workload Scheduling in Cloud Environments: A Parameter Sensitivity Study
+**Title**: Subramanian A (2026). Binary Genetic Algorithm for Cost-Optimal Workload Scheduling in Cloud Environments: A Parameter Sensitivity Study, Preprint - Research Gate.
 
 **Key Findings**:
 - Optimal pC=1.0 reduces costs by 1.39% (Cohen's d=2.62)
@@ -280,11 +280,6 @@ Research-based educational tool. Use freely for optimization.
 
 ---
 
-## 🎉 Success Stories
-
-*"Saved $3,200/month on our microservices stack!"* – DevOps Team
-
-*"Finally, data-driven instance selection instead of guessing!"* – Cloud Architect
 
 *"The research validation gave our CFO confidence to approve the migration."* – CTO
 
