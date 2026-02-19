@@ -5,7 +5,7 @@ import pandas as pd
 from typing import Dict, List, Tuple
 import re
 
-# AWS EC2 Pricing (from your research)
+# AWS EC2 Pricing 
 AWS_INSTANCES = {
     't3.micro':   {'vcpu': 2, 'ram': 1,  'cost': 0.0104},
     't3.small':   {'vcpu': 2, 'ram': 2,  'cost': 0.0208},
