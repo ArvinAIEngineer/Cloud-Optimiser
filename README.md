@@ -12,7 +12,7 @@ Built on **validated research**: 1,050 experiments, p<0.001, Cohen's d=3.41
 
 ```bash
 # Install dependencies
-pip install -r requirements_docker_optimizer.txt
+pip install -r requirements.txt
 
 # Run the app
 streamlit run docker_compose_optimizer.py
